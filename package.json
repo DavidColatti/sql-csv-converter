@@ -1,0 +1,10 @@
+{
+  "name": "sql-csv",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "sqlite-to-csv": "2.0.0",
+    "sqlite3": "^5.0.0"
+  }
+}
